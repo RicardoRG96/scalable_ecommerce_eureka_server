@@ -44,12 +44,11 @@
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
-
-			<dependency>
+			<!-- <dependency>
 				<groupId>com.fasterxml.woodstox</groupId>
 				<artifactId>woodstox-core</artifactId>
 				<version>7.7.0</version>
-			</dependency>
+			</dependency> -->
 
 			<dependency>
 				<groupId>org.apache.httpcomponents</groupId>
